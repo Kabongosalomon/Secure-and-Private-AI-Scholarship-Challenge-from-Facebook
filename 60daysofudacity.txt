@@ -61,3 +61,140 @@ I would like to encourage @Vipul Aggarwal @Berenice @Fustincho @Marianna Janczak
 *Day 26:* #60daysofudacity
 1. Practicing lesson 7
 2. Reading the book Mathematics for Machine Learning
+
+*Day 27:* #60daysofudacity
+1. Practicing lesson 7
+2. Reading the book Mathematics for Machine Learning
+
+*Day 28:* #60daysofudacity
+1. Practicing lesson 7
+2. Reading the book Mathematics for Machine Learning
+3. Taking the Fast AI NLP Course
+
+*Day 29:* #60daysofudacity
+1. Practicing lesson 7
+
+*Day 30:* #60daysofudacity
+1. Practicing lesson 7
+2. I gave a webinar on the introduction tu deep learning with pytorch 
+
+*Day 31:* #60daysofudacity
+1. Continuing working on lesson 7
+2. Had a meeting with @Vipul Aggarwal for a future webinar 
+
+*Day 32:* #60daysofudacity
+1. Practicing on Federal Learning, lesson 7
+
+*Day 33:* #60daysofudacity
+1. Practicing on Federal Learning, lesson 7
+
+*Day 34:* #60daysofudacity
+1. Working on advanced Remote Execution
+
+*Day 35:* #60daysofudacity
+1. Finished Lesson 7
+
+*Day 36:* #60daysofudacity
+1. Starting Lesson 8
+
+*Day 37:* #60daysofudacity
+1. had a webinar on Introduction to Deep Learning with PyTorch.
+
+*Day 38:* #60daysofudacity
+1. Worked on lesson 8
+2. Started Lesson 9
+
+*Day 39:* #60daysofudacity
+1. Working on lesson 9
+
+*Day 40:* #60daysofudacity
+1. Working on lesson 9
+2. Uploaded a tutorial on the introduction to Deep Learning with Pytorch https://youtu.be/CCRV43RKZ2g
+
+*Day 41:* #60daysofudacity
+1. Working on the last lesson of the challenge
+
+*Day 42:* #60daysofudacity
+1. Learned about encrypted Machine Learning as a service
+2. Finished all te course
+
+*Day 43:* #60daysofudacity
+1. Taking the new fast ai course on NLP
+2. Thinking of a course related project 
+
+*Day 44:* #60daysofudacity
+1. Working on an NLP based project. 
+
+*Day 45:* #60daysofudacity
+1. Working on an NLP based project. 
+2. Revising the course content.
+
+*Day 46:* #60daysofudacity
+1. Working on an NLP based project. 
+2. Working on Federal Learning Notebook.
+
+*Day 47:* #60daysofudacity
+1. Preparing the webinar on introduction to LatEx and how to use template to create professional Resume 
+2. Updated my Resume based on feedback from @@@ thanks to @ for organizing. 
+3. Encouraging @
+
+*Day 47:* #60daysofudacity
+1. Preparing the webinar on introduction to LatEx and how to use template to create professional Resume 
+2. Updated my Resume based on feedback from @@@ thanks to @ for organizing. 
+3. Encouraging @
+
+*Day 48:* #60daysofudacity
+1. Finalisez a post on the preparation of the webinar on Latex
+2. Took some course on NLP from fast ai 
+
+*Day 49:* #60daysofudacity
+1. Finalisez a post on the preparation of the webinar on Latex
+2. Working on Differential Privacy
+
+*Day 50:* #60daysofudacity
+1. Attended the "SautiYetu AfricanNLP UnConference (Johannesburg, Online)"
+We discussed about NLP Research in Africa.
+
+*Day 51:* #60daysofudacity
+worked on an NLP Project 
+
+*Day 52:* #60daysofudacity
+worked on an NLP Project 
+
+*Day 53:* #60daysofudacity
+worked on an NLP Project 
+Preparing my poster for deep learning indaba in Kenya 
+
+*Day 54:* #60daysofudacity
+worked on an NLP Project 
+Preparing my poster for deep learning indaba in Kenya 
+
+*Day 55:* #60daysofudacity
+Organized a webinar on how to use laTeX to create resume.
+
+*Day 56:* #60daysofudacity
+Intro to RL
+Started a zindi, IBM competition
+
+*Day 57:* #60daysofudacity
+Attended Aisha Walcott-Bryant talk at the indaba about AI in health 
+Started working on the Hackathon Track IBM Malaria Challenge hosted by IBM and Zindi
+Attended Keynote Abdoulaye Banire Diallo. Leveraging AI to Accelerate Discovery in Life Science and Deliver Precision
+
+*Day 58:* #60daysofudacity
+Attended Ruha Benjamin talk at the indaba about Innovation, Imagination, and Inequity in the 21st Century
+Continuing working on the IMB Hackathon on Malaria hosted by Zindi
+Attended the course on Attention and Memory Achitectures, given by Chris Sankara from MILA
+
+
+Day 59: #60daysofudacity
+1. Attended the mentorship session with the Apple team at the Indaba
+2. Gave my poster presentation on my NLP research project
+3. Discussed Privacy preserving Techniques with @Amel Sellami from InstaDeep  at the Indaba 2019 in Nairobi.
+
+Day 60: #60daysofudacity
+1. Attended the Natural Language Processing, with Sebastian Ruder, Stephan Gouws, Vukosi and Richard Socher 
+2. Attended the keynote by Richard Socher on The Future of Multitask Learning.
+3. Got feedback on my PhD research proposal(NLP) from expert at the interactive session at the Indaba.
+
+
